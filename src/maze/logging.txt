@@ -1,0 +1,2 @@
+LOG MESSAGE: Testing client
+END MESSAGE
